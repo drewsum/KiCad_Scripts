@@ -1,8 +1,7 @@
 # KiCad_Scripts
-Dumb python made to make life easier
+Dumb python scripts for KiCad made to make life easier
 
-
-Run scripts through the python shell built into KiCad. 
+Run scripts through the python shell built into KiCad. As of version 5.1.5, only pcbnew has a python shell available
 
 "hide_passive_refdes.py" hides all reference designators on a board besides connectors (J?/P?) and ICs (U?). No arguments needed.
 
